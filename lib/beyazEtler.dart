@@ -1,17 +1,7 @@
-
-
-
-
-
-
-
-
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_4/altdal/balik.dart';
 import 'package:flutter_application_4/altdal/tavuk.dart';
-
 
 class beyazEtlerPage extends StatelessWidget {
   @override
